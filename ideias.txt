@@ -1,0 +1,6 @@
+ideias de nome para o projeto: PillTime Alarm
+
+ideia inicial: criar um despertador sonoro que apita no horário de tomar tal remédio.
+ esp32 + buzzer + visor led 
+
+interface amigável para o usuário configurar
