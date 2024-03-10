@@ -11,9 +11,7 @@ Integrantes:
   - Lucas Militello
   - Maria Eduarda
 
-Data da 1ª reunião: 29/01/2024
- </div>
-  
+
   
 
 
