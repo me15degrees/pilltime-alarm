@@ -61,12 +61,12 @@ void setup() {
   //Define a mensagem de texto a ser enviada
   String messageTXT = "Olá mundo! Teste de envio de E-mail com somente texto.";
   // função que envia o e-mail
-  enviaEmail_TXT("Michel Galvão",
+  enviaEmail_TXT("Maria Eduarda",
                  AUTOR_EMAIL,
                  AUTOR_SENHA,
                  "Teste de E-mail",
-                 "Michel Galvão",
-                 "<O_email_destinatario>",
+                 "Maria Eduarda",
+                 "me15degrees@gmail.com",
                  messageTXT,
                  SMTP_HOST,
                  SMTP_PORT);
