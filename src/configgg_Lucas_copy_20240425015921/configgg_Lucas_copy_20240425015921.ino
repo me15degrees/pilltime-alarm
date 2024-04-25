@@ -9,8 +9,8 @@
 #define TFT_GREY 0x5AEB
 #define PURPLE_LIGHT 0xC80FF
 #define YELLOW_LIGHT 0xFFFF00
-#define WIFI_SSID "KarenRonan_Ext"
-#define WIFI_PASSWORD "aventura2022"
+#define WIFI_SSID "Galaxy 2S1 FE 5Gb878"
+#define WIFI_PASSWORD "cocozeira"
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 #define AUTOR_EMAIL "projetopilltimealarm@gmail.com"
