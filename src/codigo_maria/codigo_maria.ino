@@ -2,8 +2,8 @@
 #include <ESP_Mail_Client.h>
 #include <time.h>
 
-#define WIFI_SSID "KarenRonan_Ext"
-#define WIFI_PASSWORD "aventura2022"
+#define WIFI_SSID "Galaxy S21 FE 5Gb878"
+#define WIFI_PASSWORD "cocozeira"
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 #define AUTOR_EMAIL "projetopilltimealarm@gmail.com"
